@@ -9,9 +9,9 @@
 
  - [What I learnt]
 
-## Da
+## Daily Plans
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NzU2NDQ3MzAsLTE1OTA5OTAzMjldfQ
-==
+eyJoaXN0b3J5IjpbMTc2NTE2NTcwNiwtMTQ3NTY0NDczMCwtMT
+U5MDk5MDMyOV19
 -->
