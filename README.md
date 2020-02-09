@@ -10,9 +10,11 @@
  - [What I learnt]
 
 ## Daily Plans
-***strong text***
+***[year-month-day]***
+PLAN FOR THE DAY
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU2NzE1MDk3MCwxNzY1MTY1NzA2LC0xND
-c1NjQ0NzMwLC0xNTkwOTkwMzI5XX0=
+eyJoaXN0b3J5IjpbLTE5OTE4MDI4ODgsMTc2NTE2NTcwNiwtMT
+Q3NTY0NDczMCwtMTU5MDk5MDMyOV19
 -->
