@@ -2,9 +2,8 @@
 **Simple daily planner document**
 
 ## Backlog
-
- - [ ] List item
+ - [ ] [no items in backlog yet]
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDUzMjQ2Mjk0LC0xNTkwOTkwMzI5XX0=
+eyJoaXN0b3J5IjpbMTQ3NjcwNDQ5NCwtMTU5MDk5MDMyOV19
 -->
