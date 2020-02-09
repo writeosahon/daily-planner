@@ -19,11 +19,12 @@ PLAN FOR THE DAY
 SCORE & COMMENTS
 
 percentage + score
+
 [comment]
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA2Mjg2OTI5MSwxNzY1MTY1NzA2LC0xND
-c1NjQ0NzMwLC0xNTkwOTkwMzI5XX0=
+eyJoaXN0b3J5IjpbLTEwOTI4NTMzMTUsMTc2NTE2NTcwNiwtMT
+Q3NTY0NDczMCwtMTU5MDk5MDMyOV19
 -->
