@@ -15,10 +15,11 @@
 PLAN FOR THE DAY
 
  - [List items to do]
+ -
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjcyNjM3Nzc3LDE3NjUxNjU3MDYsLTE0Nz
-U2NDQ3MzAsLTE1OTA5OTAzMjldfQ==
+eyJoaXN0b3J5IjpbMTM5MDYwMjgzNCwxNzY1MTY1NzA2LC0xND
+c1NjQ0NzMwLC0xNTkwOTkwMzI5XX0=
 -->
