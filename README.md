@@ -13,9 +13,9 @@
 ***[year-month-day]***
 PLAN FOR THE DAY
 
- - [List items to do
+ - [List items to do]
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwNDE0ODc4NCwxNzY1MTY1NzA2LC0xND
+eyJoaXN0b3J5IjpbLTE3MjMzMTc0MSwxNzY1MTY1NzA2LC0xND
 c1NjQ0NzMwLC0xNTkwOTkwMzI5XX0=
 -->
