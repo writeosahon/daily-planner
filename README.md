@@ -5,7 +5,12 @@
  - [ ] [no items in backlog yet]
 
 ## Learnings
-**[]**
+**[Enter Date]**
+
+ - [What I learnt]
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA1NjgzMTYzNSwtMTU5MDk5MDMyOV19
+eyJoaXN0b3J5IjpbLTgxMjIyMjM4NywtMTU5MDk5MDMyOV19
 -->
